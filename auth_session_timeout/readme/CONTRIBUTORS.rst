@@ -4,3 +4,4 @@
 * Dave Lasley <dave@laslabs.com>
 * Nadia Afakrouch <nadia.afa@gmail.com>
 * Chandresh Thakkar <cthakkar@opensourceintegrators.com>
+* David Montull Guasch <david.montull@bt-group.com>
